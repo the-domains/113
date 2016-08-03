@@ -1,4 +1,3 @@
-layout_spectrum: 0.3017378901131451
 typography_spectrum: 0.18913825997151434
 color:
   brandStrength: 0.1454205287154764
@@ -11,5 +10,7 @@ color:
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
+layout_spectrum: 0.3017378901131451
 name: 1+1=3
 title: 1 + 1 = 3
+description: The sum is greater than the parts
